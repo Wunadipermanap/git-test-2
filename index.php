@@ -9,5 +9,6 @@
 <body>
     <h1>GIT remote test 2</h1>
     <h2>h2dibawah</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur numquam eius cum laborum voluptates, molestiae architecto eligendi? Sapiente aliquid dolore dolorem officia, sed unde quia alias eius, asperiores, provident inventore.</p>
 </body>
 </html>
